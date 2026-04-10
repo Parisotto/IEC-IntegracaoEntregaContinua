@@ -1,4 +1,4 @@
-# 1. Gatilho (tigger)
+# 1. Gatilho (trigger)
 name: Pipeline Experimental
 on: push
 # 2. Definição dos Jobs
