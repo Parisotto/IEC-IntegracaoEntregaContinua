@@ -11,3 +11,4 @@ jobs:
         name: Fazendo clone e checkout do meu repositório nesta máquina virutal
       - name: Boa tarde!
         run: echo "Fatec ZS"
+      - run: echo "Finalizado"
