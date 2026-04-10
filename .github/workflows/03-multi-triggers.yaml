@@ -12,3 +12,4 @@ jobs:
       - name: Boa tarde!
         run: echo "Fatec ZS"
       - run: echo "Finalizado"
+      - run: zum-claka
