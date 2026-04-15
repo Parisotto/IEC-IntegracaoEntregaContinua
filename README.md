@@ -1,4 +1,4 @@
-<img src="CI-CD.png" width="400">
+<img src="logo-iec.png" width="300">
 
 # 📘 Integração e Entrega Continuas
 
