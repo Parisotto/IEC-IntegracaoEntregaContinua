@@ -1,4 +1,4 @@
-![Ciclo CI/CD](ci-cd.png)
+![Ciclo CI/CD](CI-CD.png)
 # 📘 Integração e Entrega Continuas
 
 Repositório com os slides e exemplos das aulas apresentados em sala.
