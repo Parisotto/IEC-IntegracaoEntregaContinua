@@ -1,4 +1,4 @@
-<img src="logo-iec.png" width="300">
+<img src="banner-iec.png" width="100%">
 
 # 📘 Integração e Entrega Continuas
 
