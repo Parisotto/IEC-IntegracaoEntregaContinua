@@ -21,6 +21,8 @@ Repositório com os slides e exemplos das aulas apresentados em sala.
 - Este material é de apoio às aulas
 - Os exemplos e explicações completas são apresentados em sala
 
+<img src="logo-iec.png" width="25%">
+
 ---
 
 ## 👨‍🏫 Professor Parisotto
