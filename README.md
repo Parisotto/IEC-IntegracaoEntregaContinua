@@ -1,6 +1,6 @@
 <img src="banner-iec.png" width="100%">
 
-# 📘 Integração e Entrega Continuas
+# 📘 Integração e Entrega Continua
 
 Repositório com os slides e exemplos das aulas apresentados em sala.
 
