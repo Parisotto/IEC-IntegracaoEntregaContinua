@@ -10,7 +10,7 @@ Repositório com os slides e exemplos das aulas apresentados em sala.
 
 ### 🟢 Módulo 0 — Apresentação
 
-- [00 Slides da Apresentação](.slides)
+- [00 Slides da Apresentação](slides/)
 
 ### 🟢 Módulo 1 — GitHub Actions
 
