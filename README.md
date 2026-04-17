@@ -8,6 +8,10 @@ Repositório com os slides e exemplos das aulas apresentados em sala.
 
 ## 📚 Conteúdo das aulas
 
+### 🟢 Módulo 0 — Apresentação
+
+- [00 Slides da Apresentação](.slides/)
+
 ### 🟢 Módulo 1 — GitHub Actions
 
 - [01 Primeira Pipeline](.github/workflows/01-pipeline.y)
