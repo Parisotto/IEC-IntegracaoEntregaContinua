@@ -2,7 +2,7 @@ name: limitando triggers
 on:
   push:
     branches: #[main, develop]
-      # - main
+      - main
       - develop
 
 jobs:
